@@ -1,2 +1,2 @@
 # Titanic-problem
-Its a Kaggle compete problem statement, I try  to give a better accuracy.
+It's a Kaggle problem statement, I try my best to give better accuracy.
